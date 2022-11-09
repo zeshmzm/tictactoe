@@ -27,7 +27,7 @@ Before going ahead, knowledge of python and some of its core libraries like Nump
 If you intend to run the project at codingame, you simply need to copy the code and paste it there on the project quiz link given above. For the local running, you need to have a Python IDE installed like Jupyter Notebook etc.
 One also needs to have all the required libraries properly installed and imported. Numpy doesn’t come with the official Python package. So, it has to be installed and imported manually. The sys library comes packaged with the Python tool. The libraries can be installed with the following command:
 
-                                                  pip install {library-name}
+                                          pip install {library-name}
                                                  
 For Jupyter Notebook, add a **!** or a **%** at the start of the index tab before running the terminal command. If you intend to run it directly in the terminal, you can use the command as it is.
 
